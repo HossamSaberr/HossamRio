@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @HossamRio
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning html,css,js
